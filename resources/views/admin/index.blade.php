@@ -17,7 +17,7 @@
         <th>Model</th>
         <th>Displacement  {{ config('app.displacement') }}</th>
         <th>Status</th>
-        <th>Created</th>
+        <th>Created_at</th>
         <th><i class="fa fa-cog" aria-hidden="true"></i></th>
       </tr>
     </thead>
