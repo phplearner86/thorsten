@@ -2,10 +2,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  
+
   @include('admin.partials._head')
-  
-  
 
 </head>
 
@@ -26,6 +24,6 @@
  </div>
 
  @include('admin.partials._scripts')
- 
+
 </body>
 </html>
