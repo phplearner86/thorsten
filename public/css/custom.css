@@ -1,0 +1,38 @@
+@font-face{
+	font-family: "corporate", 
+	src: url('../fonts/corporate.ttf') format('truetype');
+}
+
+body{font-family: 'corporate', serif;}
+
+.flex{display: flex;}
+
+.flex-1{flex: : 1;}
+
+.flex-2{flex: : 2;}
+
+.flex-3{flex: : 3;}
+
+.jusify-center{justify-content: center;}
+
+.jusify-start{justify-content: flex-start;}
+
+.jusify-end{justify-content: flex-end;}
+
+.jusify-between{justify-content: space-between;}
+
+.jusify-around{justify-content: space-around;}
+
+.align-center{align-items:  center;}
+
+.align-end{align-items:  flex-end;}
+
+.align-start{align-items:  flex-start;}
+
+.btn{border-radius: 0px;}
+
+.btn-primary{padding:  1px 12px;}
+
+
+
+
